@@ -1,2 +1,2 @@
-# Sonoran
-Репозиторий для лабораторных работ
+# sonoran
+repository for laboratory works
